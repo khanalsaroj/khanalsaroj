@@ -14,6 +14,9 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" style="vertical-align: middle;"> <span style="color:#F2B84B">Hey, I'm Khanal</span>
 </h1>
+<p align="center">
+  <b>Software Engineer</b> based in <b>Seoul, South Korea 🇰🇷</b>
+</p>
 
 
 ## 🚀 Featured Projects
