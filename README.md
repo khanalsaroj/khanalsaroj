@@ -45,7 +45,10 @@
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/React%20Native-20232A?logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Delphi-E62431?logo=delphi&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=FF9900" />
