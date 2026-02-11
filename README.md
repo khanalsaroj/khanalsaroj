@@ -1,7 +1,7 @@
 <!-- Visitor Counter -->
 ![Profile Views](https://komarev.com/ghpvc/?username=khanalsaroj&label=Profile%20Views&color=F2B84B&style=flat-square)
-<!--![GitHub Followers](https://img.shields.io/github/followers/khanalsaroj?label=Followers&style=flat-square)
-![GitHub Stars](https://img.shields.io/github/stars/khanalsaroj?label=Stars&style=flat-square) -->
+![GitHub Stars](https://img.shields.io/github/stars/khanalsaroj?label=Stars&style=flat-square) 
+<!--![GitHub Followers](https://img.shields.io/github/followers/khanalsaroj?label=Followers&style=flat-square)-->
 
 
 <!-- Personal Logo / Icon Section -->
