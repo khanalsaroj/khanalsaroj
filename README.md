@@ -1,7 +1,7 @@
 <!-- Visitor Counter -->
 ![Profile Views](https://komarev.com/ghpvc/?username=khanalsaroj&label=Profile%20Views&color=F2B84B&style=flat-square)
 ![GitHub Stars](https://img.shields.io/github/stars/khanalsaroj?label=Stars&style=flat-square) 
-<!--![GitHub Followers](https://img.shields.io/github/followers/khanalsaroj?label=Followers&style=flat-square)-->
+![GitHub Followers](https://img.shields.io/github/followers/khanalsaroj?label=Followers&style=flat-square)
 
 
 <!-- Personal Logo / Icon Section -->
@@ -15,6 +15,9 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" style="vertical-align: middle;"> <span style="color:#F2B84B">Hey, I'm Khanal</span>
 </h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=F2B84B&center=true&vCenter=true&width=620&lines=Software+Engineer+%C2%B7+Seoul%2C+South+Korea;Distributed+Systems+%26+Reliability;Go+%2B+Java+Backend+Developer;Building+Developer-First+Infrastructure;If+a+workflow+feels+painful%2C+I+automate+it" alt="Roles" />
+</p>
 <p align="center">
   <b>Software Engineer</b> based in <b>Seoul, South Korea 🇰🇷</b>
 </p>
@@ -66,4 +69,8 @@
 [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:waytosarojkhanal@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode)](https://leetcode.com/u/imsaroj)
 
-💬 *“If a workflow feels painful, I’m probably interested in automating it.”*
+
+<p align="center">
+  <i>💬 If a workflow feels painful, I’m probably interested in automating it. </i>
+  <i>⚡ Designing systems that are reliable, observable, and a joy to operate.</i>
+</p>
