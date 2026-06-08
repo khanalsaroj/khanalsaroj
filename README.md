@@ -71,6 +71,6 @@
 
 
 <p align="center">
-  <i>💬 If a workflow feels painful, I’m probably interested in automating it. </i>
+  <i>💬 If a workflow feels painful, I’m probably interested in automating it. </i><br>
   <i>⚡ Designing systems that are reliable, observable, and a joy to operate.</i>
 </p>
