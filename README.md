@@ -23,12 +23,6 @@
 </p>
 
 
-## Featured Projects
-- **TypeGenerator** – Schema-driven backend code generation platform (Go, CLI + API server, YAML config)  
-- **Lokl** – Declarative local dev environment orchestrator (Go, YAML, process orchestration)  
-
----
-
 ## Engineering Interests
 
 - **Distributed Systems:** fault-tolerant architectures, service coordination  
