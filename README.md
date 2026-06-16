@@ -23,13 +23,13 @@
 </p>
 
 
-## 🚀 Featured Projects
+## Featured Projects
 - **TypeGenerator** – Schema-driven backend code generation platform (Go, CLI + API server, YAML config)  
 - **Lokl** – Declarative local dev environment orchestrator (Go, YAML, process orchestration)  
 
 ---
 
-## 🧠 Engineering Interests
+## Engineering Interests
 
 - **Distributed Systems:** fault-tolerant architectures, service coordination  
 - **Stateful Workloads:** database replication, orchestration semantics  
@@ -41,7 +41,7 @@
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white" />
@@ -62,6 +62,75 @@
   <img src="https://img.shields.io/badge/REST-02569B?logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?logo=argo&logoColor=white" />
   <img src="https://img.shields.io/badge/CI%2FCD-0A0A0A?logo=githubactions&logoColor=white" />
+</p>
+
+## Selected Repositories
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/khanalsaroj/replicaX">
+        <img src="https://opengraph.githubassets.com/1/khanalsaroj/replicaX" width="280" alt="replicaX — Data replication layer" />
+      </a>
+      <br/>
+      <a href="https://github.com/khanalsaroj/replicaX">
+        <img src="https://img.shields.io/badge/replicaX-534AB7?style=flat-square&logo=github&logoColor=white" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/khanalsaroj/typegenctl">
+        <img src="https://opengraph.githubassets.com/1/khanalsaroj/typegenctl" width="280" alt="typegenctl — TypeScript type generator CLI" />
+      </a>
+      <br/>
+      <a href="https://github.com/khanalsaroj/typegenctl">
+        <img src="https://img.shields.io/badge/typegenctl-0F6E56?style=flat-square&logo=github&logoColor=white" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/khanalsaroj/typegen-server">
+        <img src="https://opengraph.githubassets.com/1/khanalsaroj/typegen-server" width="280" alt="typegen-server — Type generation backend API" />
+      </a>
+      <br/>
+      <a href="https://github.com/khanalsaroj/typegen-server">
+        <img src="https://img.shields.io/badge/typegen--server-993C1D?style=flat-square&logo=github&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/khanalsaroj/typegen-ui">
+        <img src="https://opengraph.githubassets.com/1/khanalsaroj/typegen-ui" width="280" alt="typegen-ui — Type generation frontend interface" />
+      </a>
+      <br/>
+      <a href="https://github.com/khanalsaroj/typegen-ui">
+        <img src="https://img.shields.io/badge/typegen--ui-993556?style=flat-square&logo=github&logoColor=white" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/khanalsaroj/fake-hacking">
+        <img src="https://opengraph.githubassets.com/1/khanalsaroj/fake-hacking" width="280" alt="fake-hacking — Cinematic terminal hacker simulator" />
+      </a>
+      <br/>
+      <a href="https://github.com/khanalsaroj/fake-hacking">
+        <img src="https://img.shields.io/badge/fake--hacking-854F0B?style=flat-square&logo=github&logoColor=white" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/khanalsaroj/portkill">
+        <img src="https://opengraph.githubassets.com/1/khanalsaroj/portkill" width="280" alt="portkill — Kill any port process instantly" />
+      </a>
+      <br/>
+      <a href="https://github.com/khanalsaroj/portkill">
+        <img src="https://img.shields.io/badge/portkill-5F5E5A?style=flat-square&logo=github&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<p>
+  <a href="https://github.com/khanalsaroj?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/View_All_Repositories-B8894C?style=flat-square&logo=github&logoColor=white" alt="View all repositories" />
+  </a>
 </p>
 
 ## **Connect with me:**  
