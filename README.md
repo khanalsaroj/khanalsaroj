@@ -71,36 +71,7 @@
         <img src="https://img.shields.io/badge/replicaX-534AB7?style=flat-square&logo=github&logoColor=white" />
       </a>
     </td>
-    <td align="center">
-      <a href="https://github.com/khanalsaroj/typegenctl">
-        <img src="https://opengraph.githubassets.com/1/khanalsaroj/typegenctl" width="280" alt="typegenctl — TypeScript type generator CLI" />
-      </a>
-      <br/>
-      <a href="https://github.com/khanalsaroj/typegenctl">
-        <img src="https://img.shields.io/badge/typegenctl-0F6E56?style=flat-square&logo=github&logoColor=white" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/khanalsaroj/typegen-server">
-        <img src="https://opengraph.githubassets.com/1/khanalsaroj/typegen-server" width="280" alt="typegen-server — Type generation backend API" />
-      </a>
-      <br/>
-      <a href="https://github.com/khanalsaroj/typegen-server">
-        <img src="https://img.shields.io/badge/typegen--server-993C1D?style=flat-square&logo=github&logoColor=white" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/khanalsaroj/typegen-ui">
-        <img src="https://opengraph.githubassets.com/1/khanalsaroj/typegen-ui" width="280" alt="typegen-ui — Type generation frontend interface" />
-      </a>
-      <br/>
-      <a href="https://github.com/khanalsaroj/typegen-ui">
-        <img src="https://img.shields.io/badge/typegen--ui-993556?style=flat-square&logo=github&logoColor=white" />
-      </a>
-    </td>
-    <td align="center">
+	<td align="center">
       <a href="https://github.com/khanalsaroj/fake-hacking">
         <img src="https://opengraph.githubassets.com/1/khanalsaroj/fake-hacking" width="280" alt="fake-hacking — Cinematic terminal hacker simulator" />
       </a>
