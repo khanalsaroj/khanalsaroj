@@ -71,7 +71,7 @@
         <img src="https://img.shields.io/badge/replicaX-534AB7?style=flat-square&logo=github&logoColor=white" />
       </a>
     </td>
-	<td align="center">
+    <td align="center">
       <a href="https://github.com/khanalsaroj/fake-hacking">
         <img src="https://opengraph.githubassets.com/1/khanalsaroj/fake-hacking" width="280" alt="fake-hacking — Cinematic terminal hacker simulator" />
       </a>
@@ -87,6 +87,17 @@
       <br/>
       <a href="https://github.com/khanalsaroj/portkill">
         <img src="https://img.shields.io/badge/portkill-5F5E5A?style=flat-square&logo=github&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/khanalsaroj/claude-yolo">
+        <img src="https://opengraph.githubassets.com/1/khanalsaroj/claude-yolo" width="280" alt="claude-yolo — YOLO mode for Claude Code" />
+      </a>
+      <br/>
+      <a href="https://github.com/khanalsaroj/claude-yolo">
+        <img src="https://img.shields.io/badge/claude--yolo-FF6B35?style=flat-square&logo=github&logoColor=white" />
       </a>
     </td>
   </tr>
