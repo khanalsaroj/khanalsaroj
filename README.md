@@ -1,121 +1,136 @@
-<!-- Visitor Counter -->
+<!-- ==========================================================================
+     GitHub profile README for github.com/khanalsaroj/khanalsaroj
+     Copy this file's contents into that repo's README.md.
+     Two placeholders need your input before publishing - search for TODO.
+     ========================================================================== -->
+
 ![Profile Views](https://komarev.com/ghpvc/?username=khanalsaroj&label=Profile%20Views&color=F2B84B&style=flat-square)
-![GitHub Stars](https://img.shields.io/github/stars/khanalsaroj?label=Stars&style=flat-square) 
-![GitHub Followers](https://img.shields.io/github/followers/khanalsaroj?label=Followers&style=flat-square)
 
-
-<!-- Personal Logo / Icon Section -->
-<p align="left">
-  <a href="https://khanalsaroj.github.io/" target="_blank">
-  </a>
-</p>
-
-
-<!-- Intro Heading -->
 <h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" style="vertical-align: middle;"> <span style="color:#F2B84B">Hey, I'm Khanal</span>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" style="vertical-align: middle;"> <span style="color:#F2B84B">Hey, I'm Saroj</span>
 </h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=F2B84B&center=true&vCenter=true&width=620&lines=Software+Engineer+%C2%B7+Seoul%2C+South+Korea;Distributed+Systems+%26+Reliability;Go+%2B+Java+Backend+Developer;Building+Developer-First+Infrastructure;If+a+workflow+feels+painful%2C+I+automate+it" alt="Roles" />
-</p>
-<p align="center">
-  <b>Software Engineer</b> based in <b>Seoul, South Korea 🇰🇷</b>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=F2B84B&center=true&vCenter=true&width=680&lines=Senior+Backend+Engineer+%C2%B7+Seoul%2C+South+Korea;Aviation+%26+Logistics+Systems+%C2%B7+Java+%2B+Spring+Boot;Kafka+at+10K%2B+msg%2Fmin+%C2%B7+99.95%25+availability;If+a+workflow+feels+painful%2C+I+automate+it" alt="Roles" />
 </p>
 
-
-## Engineering Interests
-
-- **Distributed Systems:** fault-tolerant architectures, service coordination  
-- **Stateful Workloads:** database replication, orchestration semantics  
-- **Developer Experience (DX):** internal platforms, CLIs, workflow automation  
-- **Infrastructure:** high-availability backend systems  
-- **Reliability:** observability, SLOs, failure modeling  
-
-
+<p align="center">
+  <b>Senior Backend Engineer</b>, 8+ years, based in <b>Seoul, South Korea</b> 🇰🇷<br>
+</p>
 
 ---
 
-## Tech Stack
+I build the calculation and decision layers of aviation and logistics systems, where a wrong number keeps an aircraft on the ground. Java and Spring Boot mostly, Go on my own projects. I treat SQL performance as part of my job rather than something to hand to a DBA.
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/React%20Native-20232A?logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Delphi-E62431?logo=delphi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=FF9900" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gin-00ADD8?logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST-02569B?logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?logo=argo&logoColor=white" />
-  <img src="https://img.shields.io/badge/CI%2FCD-0A0A0A?logo=githubactions&logoColor=white" />
-</p>
+## What I work on
+
+- **Aviation systems** &mdash; aircraft weight & balance, load optimization, flight operations
+- **High-throughput messaging** &mdash; Kafka pipelines over carrier gateways that behave inconsistently
+- **Batch and scheduling** &mdash; restartable Spring Batch with checkpointing, replacing cron jobs that fail silently
+- **SQL performance** &mdash; query rewrites and indexing, usually cheaper than new infrastructure
+- **Developer experience** &mdash; internal CLIs, code generation, workflow automation
 
 ## Selected Repositories
 
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/khanalsaroj/replicaX">
-        <img src="https://opengraph.githubassets.com/1/khanalsaroj/replicaX" width="280" alt="replicaX — Data replication layer" />
-      </a>
-      <br/>
-      <a href="https://github.com/khanalsaroj/replicaX">
-        <img src="https://img.shields.io/badge/replicaX-534AB7?style=flat-square&logo=github&logoColor=white" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/khanalsaroj/fake-hacking">
-        <img src="https://opengraph.githubassets.com/1/khanalsaroj/fake-hacking" width="280" alt="fake-hacking — Cinematic terminal hacker simulator" />
-      </a>
-      <br/>
-      <a href="https://github.com/khanalsaroj/fake-hacking">
-        <img src="https://img.shields.io/badge/fake--hacking-854F0B?style=flat-square&logo=github&logoColor=white" />
-      </a>
-    </td>
-    <td align="center">
       <a href="https://github.com/khanalsaroj/portkill">
-        <img src="https://opengraph.githubassets.com/1/khanalsaroj/portkill" width="280" alt="portkill — Kill any port process instantly" />
+        <img src="https://opengraph.githubassets.com/1/khanalsaroj/portkill" width="280" alt="portkill - free whichever process holds a port, cross-platform" />
       </a>
       <br/>
       <a href="https://github.com/khanalsaroj/portkill">
-        <img src="https://img.shields.io/badge/portkill-5F5E5A?style=flat-square&logo=github&logoColor=white" />
+        <img src="https://img.shields.io/badge/portkill-5F5E5A?style=flat-square&logo=go&logoColor=white" />
       </a>
+      <br/>
+      <sub>Zero-dependency CLI that frees whichever process holds a port. Windows, macOS, Linux, FreeBSD. JSON output, typed exit codes.</sub>
     </td>
-  </tr>
-  <tr>
+    <td align="center">
+      <a href="https://github.com/khanalsaroj/replicaX">
+        <img src="https://opengraph.githubassets.com/1/khanalsaroj/replicaX" width="280" alt="ReplicaX - capture a project's setup into a portable profile and replay it" />
+      </a>
+      <br/>
+      <a href="https://www.npmjs.com/package/@iamsaroj/replicax">
+        <img src="https://img.shields.io/npm/v/@iamsaroj/replicax?style=flat-square&logo=npm&logoColor=white&label=replicaX&color=CB3837" />
+      </a>
+      <br/>
+      <sub>Captures a project's tooling, config, and folder layout into a SHA-256-verified profile, then replays it into a new repo. Secrets never enter a profile.</sub>
+    </td>
     <td align="center">
       <a href="https://github.com/khanalsaroj/claude-yolo">
-        <img src="https://opengraph.githubassets.com/1/khanalsaroj/claude-yolo" width="280" alt="claude-yolo — YOLO mode for Claude Code" />
+        <img src="https://opengraph.githubassets.com/1/khanalsaroj/claude-yolo" width="280" alt="claude-yolo - PATH shim that rewrites a long CLI flag" />
       </a>
       <br/>
       <a href="https://github.com/khanalsaroj/claude-yolo">
-        <img src="https://img.shields.io/badge/claude--yolo-FF6B35?style=flat-square&logo=github&logoColor=white" />
+        <img src="https://img.shields.io/badge/claude--yolo-FF6B35?style=flat-square&logo=gnubash&logoColor=white" />
       </a>
+      <br/>
+      <sub>PATH shim that rewrites one CLI flag and execs the real binary untouched. POSIX sh and PowerShell, no dependencies, under 100 lines per platform, stdin/stdout/exit codes preserved exactly.</sub>
     </td>
   </tr>
 </table>
 
-<p>
+<!-- TODO: the repo below exists and is TypeScript, but it still carries GitHub's
+     auto-generated name and has no description. Rename it to something like
+     "smart-ui" and add a description first - a featured card reading
+     "automatic-octo-fiesta" costs more than it gains. Then uncomment this and
+     move the table to a 2x2 layout.
+    <td align="center">
+      <a href="https://github.com/imsaroj/automatic-octo-fiesta">
+        <img src="https://opengraph.githubassets.com/1/imsaroj/automatic-octo-fiesta" width="280" alt="Smart UI - source-first React component system" />
+      </a>
+      <br/>
+      <a href="https://github.com/imsaroj/automatic-octo-fiesta">
+        <img src="https://img.shields.io/badge/Smart_UI-61DAFB?style=flat-square&logo=react&logoColor=black" />
+      </a>
+      <br/>
+      <sub>Source-first component system in a pnpm/Turborepo monorepo. Zod-driven forms, server-side AG Grid tables. A four-field form drops from ~150 lines to 45.</sub>
+    </td>
+-->
+
+<p align="center">
   <a href="https://github.com/khanalsaroj?tab=repositories" target="_blank">
     <img src="https://img.shields.io/badge/View_All_Repositories-B8894C?style=flat-square&logo=github&logoColor=white" alt="View all repositories" />
   </a>
 </p>
 
-## **Connect with me:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-imsaroj-blue?logo=linkedin)](https://www.linkedin.com/in/imsaroj/)
-[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:waytosarojkhanal@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode)](https://leetcode.com/u/imsaroj)
+## Tech stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Batch-6DB33F?logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kafka-231F20?logo=apachekafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/React%20Native-20232A?logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white" />
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=FF9900" />
+  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?logo=argo&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI%2FCD-0A0A0A?logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20AI-6DB33F?logo=spring&logoColor=white" />
+</p>
+
+
+## Connect
+
+[![Website](https://img.shields.io/badge/Website-sarojkhanal7.com.np-B8894C?style=flat-square&logo=googlechrome&logoColor=white)](https://www.sarojkhanal7.com.np/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-imsaroj-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imsaroj/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:waytosarojkhanal@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-imsaroj-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/imsaroj)
 
 
 <p align="center">
-  <i>💬 If a workflow feels painful, I’m probably interested in automating it. </i><br>
   <i>⚡ Designing systems that are reliable, observable, and a joy to operate.</i>
 </p>
+
