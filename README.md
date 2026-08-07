@@ -1,7 +1,7 @@
 <!-- ==========================================================================
      GitHub profile README for github.com/khanalsaroj/khanalsaroj
      Copy this file's contents into that repo's README.md.
-     Two placeholders need your input before publishing - search for TODO.
+     One placeholder needs your input before publishing - search for TODO.
      ========================================================================== -->
 
 ![Profile Views](https://komarev.com/ghpvc/?username=khanalsaroj&label=Profile%20Views&color=F2B84B&style=flat-square)
@@ -11,11 +11,11 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=F2B84B&center=true&vCenter=true&width=680&lines=Senior+Backend+Engineer+%C2%B7+Seoul%2C+South+Korea;Aviation+%26+Logistics+Systems+%C2%B7+Java+%2B+Spring+Boot;Kafka+at+10K%2B+msg%2Fmin+%C2%B7+99.95%25+availability;If+a+workflow+feels+painful%2C+I+automate+it" alt="Roles" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=F2B84B&center=true&vCenter=true&width=680&lines=Senior+Backend+Engineer+%C2%B7+Seoul%2C+South+Korea;Aviation+%26+Logistics+Systems+%C2%B7+Java+%2B+Spring+Boot;Weight+%26+Balance+engine+live+at+2+airlines;If+a+workflow+feels+painful%2C+I+automate+it" alt="Roles" />
 </p>
 
 <p align="center">
-  <b>Senior Backend Engineer</b>, 8+ years, based in <b>Seoul, South Korea</b> 🇰🇷<br>
+  <b>Backend Engineer</b>, 8+ years, based in <b>Seoul, South Korea</b> 🇰🇷<br>
 </p>
 
 ---
@@ -111,7 +111,6 @@ I build the calculation and decision layers of aviation and logistics systems, w
 <p align="left">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" />
