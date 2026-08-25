@@ -11,7 +11,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=F2B84B&center=true&vCenter=true&width=680&lines=Senior+Backend+Engineer+%C2%B7+Seoul%2C+South+Korea;Aviation+%26+Logistics+Systems+%C2%B7+Java+%2B+Spring+Boot;Weight+%26+Balance+engine+live+at+2+airlines;If+a+workflow+feels+painful%2C+I+automate+it" alt="Roles" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=F2B84B&center=true&vCenter=true&width=680&lines=Senior+Backend+Engineer+%C2%B7+Seoul%2C+South+Korea;If+a+workflow+feels+painful%2C+I+automate+it" alt="Roles" />
 </p>
 
 <p align="center">
@@ -46,15 +46,15 @@ I build the calculation and decision layers of aviation and logistics systems, w
       <sub>Zero-dependency CLI that frees whichever process holds a port. Windows, macOS, Linux, FreeBSD. JSON output, typed exit codes.</sub>
     </td>
     <td align="center">
-      <a href="https://github.com/khanalsaroj/replicaX">
-        <img src="https://opengraph.githubassets.com/1/khanalsaroj/replicaX" width="280" alt="ReplicaX - capture a project's setup into a portable profile and replay it" />
+      <a href="https://github.com/khanalsaroj/ramify">
+        <img src="https://opengraph.githubassets.com/1/khanalsaroj/ramify" width="280" alt="Ramify - every branch becomes a live URL, every URL knows when to die" />
       </a>
       <br/>
-      <a href="https://www.npmjs.com/package/@iamsaroj/replicax">
-        <img src="https://img.shields.io/npm/v/@iamsaroj/replicax?style=flat-square&logo=npm&logoColor=white&label=replicaX&color=CB3837" />
+      <a href="https://github.com/khanalsaroj/ramify">
+        <img src="https://img.shields.io/badge/ramify-00ADD8?style=flat-square&logo=go&logoColor=white" />
       </a>
       <br/>
-      <sub>Captures a project's tooling, config, and folder layout into a SHA-256-verified profile, then replays it into a new repo. Secrets never enter a profile.</sub>
+      <sub>Self-hosted control plane that turns branches and PRs into short-lived preview environments on your own VPS. Owns DNS and TLS end to end, and every environment expires on a TTL.</sub>
     </td>
     <td align="center">
       <a href="https://github.com/khanalsaroj/claude-yolo">
